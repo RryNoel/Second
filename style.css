@@ -10,7 +10,7 @@
             position:absolute;
             width: 100vw;
             height: 100vh;
-            background-image: url(/Second/scenery.jpg);
+            background-image: url(/scenery.jpg);
             transition: all 1s;
             opacity: 0;
         }
